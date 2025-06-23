@@ -56,3 +56,9 @@ S3_BUCKET_NAME=your-bucket-name
 AWS_REGION=ap-south-1
 AWS_ACCESS_KEY_ID=your-access-key
 AWS_SECRET_ACCESS_KEY=your-secret-key
+
+
+Built with ❤️ by Muddana Aravind Kumar
+Cloud-native, backend-focused file management system.
+
+
