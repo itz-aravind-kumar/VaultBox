@@ -1,6 +1,6 @@
  🗄️ VaultBox – Secure Cloud File Storage
 
-VaultBox is a full-stack secure file storage system built with Node.js, AWS S3, and DynamoDB. It allows users to register, authenticate, and manage personal files on the cloud via a clean web interface. Designed with scalability, security, and simplicity in mind.
+VaultBox is a full-stack secure file storage system built with Node.js, AWS S3, and DynamoDB. It allows users to register, authenticate, and manage personal files on the cloud via a clean web interface. Designed with scalability, security, and simplicity in mind.. 
 
 ---
 
